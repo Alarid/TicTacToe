@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is a Tic Tac Toe game, built while following the official React tutorial and improved with a few functionalities, such as:
+
+* Location displayed on each move in the history list
+* Current move disabled in history
+* Sort asc or desc on the history
+* Highligh of the squares that caused the win
+* No one wins, game is a draw
+
+
 ## Available Scripts
 
 In the project directory, you can run:
